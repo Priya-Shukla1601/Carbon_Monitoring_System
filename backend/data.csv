@@ -1,0 +1,2 @@
+userId,month,diesel,biomass,lpg,png,fo,gridPower,rePpa,solar,production,totalEmissions,totalEnergy,carbonIntensity,rePercentage,energyRatio,timestamp
+default_user,2026-01,1000,10,1000,0,0,1000,3323,121,20000,6409.02,100208.4,0.32,12.37,5.01,2026-02-06T14:28:10.294Z
